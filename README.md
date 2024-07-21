@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Beyza, an Industrial Engineering graduate with a passion for Artificial Intelligence and data-driven solutions. My journey in the tech world has led me to explore and work on various AI and data-related projects, where I aim to leverage my engineering background to solve complex problems and innovate. Don't forget to follow me on my social media accounts below 👇
+# I'm Beyza, an Industrial Engineering graduate with a passion for Artificial Intelligence and data-driven solutions. My journey in the tech world has led me to explore and work on various AI and data-related projects, where I aim to leverage my engineering background to solve complex problems and innovate. Don't forget to follow me on my social media accounts below 👇
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/beyza-nur-sarikaya/)
