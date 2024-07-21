@@ -18,4 +18,4 @@
 ## 📬 Contact Us
 For any inquiries, please email us at: [beyzanursarikayaa@gmail.com](mailto:beyzanursarikayaa@gmail.com)
 
-💡 I'm always eager to learn new things and collaborate on exciting projects. Feel free to check out my repositories and connect with me!
+🚀 🌟 I'm always eager to learn new things and collaborate on exciting projects. Feel free to check out my repositories and connect with me!
