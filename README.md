@@ -1,4 +1,4 @@
-## Hi there, I'm Beyza 👋 
+# Hi there, I'm Beyza 👋 
 
 I am an **Industrial Engineer** transitioning into the world of **Data Engineering & AI**. I combine my background in process optimization with modern data stack technologies to build scalable, automated, and efficient data solutions.
 
@@ -15,14 +15,15 @@ Currently, I am focused on building end-to-end ETL pipelines, cloud data warehou
 | **Data Science & AI** | Python (Pandas, NumPy), Machine Learning, Deep Learning, GenAI |
 | **Data Analysis** | SQL, Power BI, Streamlit, Data Modeling |
 
----
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BeyzaNurSarikaya&show_icons=true&theme=visual_studio_code" alt="Beyza's Stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaNurSarikaya&layout=compact&theme=visual_studio_code" alt="Top Languages" />
-</p>>
+## 🤖 Work Areas
+[![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science)
+[![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
+[![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning)
+[![DataEngineering](https://img.shields.io/badge/DataEngineering-green?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_engineering)
 
+
+🚀 🌟 I'm always eager to learn new things and collaborate on exciting projects. Feel free to check out my repositories and connect with me!
 ---
 
 ### 📫 Let's Connect!
