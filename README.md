@@ -18,10 +18,10 @@ Currently, I am focused on building end-to-end ETL pipelines, cloud data warehou
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeyzaNurSarikaya&show_icons=true&theme=radical" alt="Beyza's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaNurSarikaya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BeyzaNurSarikaya&show_icons=true&theme=visual_studio_code" alt="Beyza's Stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaNurSarikaya&layout=compact&theme=visual_studio_code" alt="Top Languages" />
+</p>>
 
 ---
 
