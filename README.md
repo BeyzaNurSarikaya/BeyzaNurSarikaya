@@ -1,19 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Beyza 👋 
 
-# I'm Beyza, an Industrial Engineering graduate with a passion for Artificial Intelligence and data-driven solutions. My journey in the tech world has led me to explore and work on various AI and data-related projects, where I aim to leverage my engineering background to solve complex problems and innovate. Don't forget to follow me on my social media accounts below 👇
+I am an **Industrial Engineer** transitioning into the world of **Data Engineering & AI**. I combine my background in process optimization with modern data stack technologies to build scalable, automated, and efficient data solutions.
 
-## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/beyza-nur-sarikaya/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/beyzanursarkaya)
+Currently, I am focused on building end-to-end ETL pipelines, cloud data warehousing, and AI-driven analytics.
 
-## 🤖 Work Areas
-[![GenAI](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_AI)
-[![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science)
-[![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
-[![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning)
-[![DataEngineering](https://img.shields.io/badge/DataEngineering-green?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_engineering)
+---
 
-## 📬 Contact Me
-For any inquiries, please email me at: [beyzanursarikayaa@gmail.com](mailto:beyzanursarikayaa@gmail.com)
+### 🛠️ Tech Stack & Learning Path
 
-🚀 🌟 I'm always eager to learn new things and collaborate on exciting projects. Feel free to check out my repositories and connect with me!
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Engineering** | Apache Airflow, Docker, Microsoft Fabric, Snowflake, ETL Pipelines |
+| **Databases** | MySQL, PostgreSQL, MongoDB, OneLake |
+| **Data Science & AI** | Python (Pandas, NumPy), Machine Learning, Deep Learning, GenAI |
+| **Data Analysis** | SQL, Power BI, Streamlit, Data Modeling |
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeyzaNurSarikaya&show_icons=true&theme=radical" alt="Beyza's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaNurSarikaya&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/beyza-nur-sarikaya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.kaggle.com/beyzanursarkaya" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+
+---
+
+### ⚡ Fun Fact
+As an Industrial Engineer, I don't just process data; I optimize the way data is processed! 🚀
